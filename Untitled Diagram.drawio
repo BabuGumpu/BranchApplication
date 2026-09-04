@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" pages="4">
+<mxfile host="app.diagrams.net" pages="5">
   <diagram name="Page-1" id="t_OwLlbZ5JaSbJwzGz9v">
     <mxGraphModel dx="15476" dy="-37719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,68 +7,68 @@
         <mxCell id="s9hrZCgQBVPt6wMfS_vP-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="60" width="120" x="-13400" y="40300" as="geometry" />
         </mxCell>
-        <mxCell id="s9hrZCgQBVPt6wMfS_vP-14" edge="1" parent="1" source="s9hrZCgQBVPt6wMfS_vP-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;fontStyle=0" target="s9hrZCgQBVPt6wMfS_vP-3">
+        <mxCell id="s9hrZCgQBVPt6wMfS_vP-14" edge="1" parent="1" source="s9hrZCgQBVPt6wMfS_vP-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;fontStyle=0;flowAnimation=1;" target="s9hrZCgQBVPt6wMfS_vP-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s9hrZCgQBVPt6wMfS_vP-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0" value="Functional &amp;amp; Non Functional Requirements" vertex="1">
-          <mxGeometry height="80" width="160" x="-1480" y="38900" as="geometry" />
+          <mxGeometry height="80" width="160" x="-1560" y="38900" as="geometry" />
         </mxCell>
-        <mxCell id="s9hrZCgQBVPt6wMfS_vP-20" edge="1" parent="1" source="s9hrZCgQBVPt6wMfS_vP-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fontStyle=0" target="s9hrZCgQBVPt6wMfS_vP-19">
+        <mxCell id="s9hrZCgQBVPt6wMfS_vP-20" edge="1" parent="1" source="s9hrZCgQBVPt6wMfS_vP-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fontStyle=0;flowAnimation=1;" target="s9hrZCgQBVPt6wMfS_vP-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s9hrZCgQBVPt6wMfS_vP-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0" value="High Level Design (HLD)" vertex="1">
-          <mxGeometry height="80" width="160" x="-1280" y="38900" as="geometry" />
+          <mxGeometry height="80" width="160" x="-1290" y="38900" as="geometry" />
         </mxCell>
-        <mxCell id="s9hrZCgQBVPt6wMfS_vP-22" edge="1" parent="1" source="s9hrZCgQBVPt6wMfS_vP-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;fontStyle=0" target="s9hrZCgQBVPt6wMfS_vP-5">
+        <mxCell id="s9hrZCgQBVPt6wMfS_vP-22" edge="1" parent="1" source="s9hrZCgQBVPt6wMfS_vP-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;fontStyle=0;flowAnimation=1;" target="s9hrZCgQBVPt6wMfS_vP-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s9hrZCgQBVPt6wMfS_vP-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0" value="Low Level Design (LLD)" vertex="1">
-          <mxGeometry height="80" width="160" x="-870" y="38900" as="geometry" />
+          <mxGeometry height="80" width="160" x="-810" y="38900" as="geometry" />
         </mxCell>
-        <mxCell id="s9hrZCgQBVPt6wMfS_vP-23" edge="1" parent="1" source="s9hrZCgQBVPt6wMfS_vP-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;fontStyle=0" target="s9hrZCgQBVPt6wMfS_vP-13">
+        <mxCell id="s9hrZCgQBVPt6wMfS_vP-23" edge="1" parent="1" source="s9hrZCgQBVPt6wMfS_vP-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;fontStyle=0;flowAnimation=1;" target="s9hrZCgQBVPt6wMfS_vP-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s9hrZCgQBVPt6wMfS_vP-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0" value="Build &amp;amp; Unit Tested in Development Environment" vertex="1">
-          <mxGeometry height="80" width="160" x="-870" y="39020" as="geometry" />
+          <mxGeometry height="80" width="160" x="-810" y="39020" as="geometry" />
         </mxCell>
-        <mxCell id="s9hrZCgQBVPt6wMfS_vP-33" edge="1" parent="1" source="s9hrZCgQBVPt6wMfS_vP-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fontStyle=0" target="s9hrZCgQBVPt6wMfS_vP-31">
+        <mxCell id="s9hrZCgQBVPt6wMfS_vP-33" edge="1" parent="1" source="s9hrZCgQBVPt6wMfS_vP-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fontStyle=0;flowAnimation=1;" target="s9hrZCgQBVPt6wMfS_vP-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s9hrZCgQBVPt6wMfS_vP-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontStyle=0" value="DEAB - Interim Authority to Operate (IAtO) in PROD" vertex="1">
-          <mxGeometry height="80" width="160" x="-1480" y="39140" as="geometry" />
+          <mxGeometry height="80" width="160" x="-1560" y="39140" as="geometry" />
         </mxCell>
-        <mxCell id="s9hrZCgQBVPt6wMfS_vP-29" edge="1" parent="1" source="s9hrZCgQBVPt6wMfS_vP-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;fontStyle=0" target="s9hrZCgQBVPt6wMfS_vP-28">
+        <mxCell id="s9hrZCgQBVPt6wMfS_vP-29" edge="1" parent="1" source="s9hrZCgQBVPt6wMfS_vP-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;fontStyle=0;flowAnimation=1;" target="s9hrZCgQBVPt6wMfS_vP-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s9hrZCgQBVPt6wMfS_vP-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0" value="Performance/PEN Testing in Pre-PROD" vertex="1">
-          <mxGeometry height="80" width="160" x="-1280" y="39020" as="geometry" />
+          <mxGeometry height="80" width="160" x="-1290" y="39020" as="geometry" />
         </mxCell>
-        <mxCell id="s9hrZCgQBVPt6wMfS_vP-26" edge="1" parent="1" source="s9hrZCgQBVPt6wMfS_vP-13" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;fontStyle=0" target="s9hrZCgQBVPt6wMfS_vP-11">
+        <mxCell id="s9hrZCgQBVPt6wMfS_vP-26" edge="1" parent="1" source="s9hrZCgQBVPt6wMfS_vP-13" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;fontStyle=0;flowAnimation=1;" target="s9hrZCgQBVPt6wMfS_vP-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s9hrZCgQBVPt6wMfS_vP-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;fontStyle=0" value="DEAB - Authority to Test in Test Environment" vertex="1">
-          <mxGeometry height="80" width="160" x="-1070" y="39020" as="geometry" />
+          <mxGeometry height="80" width="160" x="-1045" y="39020" as="geometry" />
         </mxCell>
-        <mxCell id="s9hrZCgQBVPt6wMfS_vP-21" edge="1" parent="1" source="s9hrZCgQBVPt6wMfS_vP-19" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;fontStyle=0" target="s9hrZCgQBVPt6wMfS_vP-4">
+        <mxCell id="s9hrZCgQBVPt6wMfS_vP-21" edge="1" parent="1" source="s9hrZCgQBVPt6wMfS_vP-19" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;fontStyle=0;flowAnimation=1;" target="s9hrZCgQBVPt6wMfS_vP-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s9hrZCgQBVPt6wMfS_vP-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0" value="TDA Approval" vertex="1">
-          <mxGeometry height="80" width="160" x="-1070" y="38900" as="geometry" />
+          <mxGeometry height="80" width="160" x="-1045" y="38900" as="geometry" />
         </mxCell>
-        <mxCell id="s9hrZCgQBVPt6wMfS_vP-30" edge="1" parent="1" source="s9hrZCgQBVPt6wMfS_vP-28" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fontStyle=0" target="s9hrZCgQBVPt6wMfS_vP-6">
+        <mxCell id="s9hrZCgQBVPt6wMfS_vP-30" edge="1" parent="1" source="s9hrZCgQBVPt6wMfS_vP-28" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fontStyle=0;flowAnimation=1;" target="s9hrZCgQBVPt6wMfS_vP-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s9hrZCgQBVPt6wMfS_vP-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0" value="Deployment in PROD/Live Environment" vertex="1">
-          <mxGeometry height="80" width="160" x="-1480" y="39020" as="geometry" />
+          <mxGeometry height="80" width="160" x="-1560" y="39020" as="geometry" />
         </mxCell>
-        <mxCell id="s9hrZCgQBVPt6wMfS_vP-34" edge="1" parent="1" source="s9hrZCgQBVPt6wMfS_vP-31" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fontStyle=0" target="s9hrZCgQBVPt6wMfS_vP-32">
+        <mxCell id="s9hrZCgQBVPt6wMfS_vP-34" edge="1" parent="1" source="s9hrZCgQBVPt6wMfS_vP-31" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fontStyle=0;flowAnimation=1;" target="s9hrZCgQBVPt6wMfS_vP-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s9hrZCgQBVPt6wMfS_vP-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontStyle=0" value="DEAB - Authority to Operate (AtO) in PROD" vertex="1">
-          <mxGeometry height="80" width="160" x="-1280" y="39140" as="geometry" />
+          <mxGeometry height="80" width="160" x="-1290" y="39140" as="geometry" />
         </mxCell>
         <mxCell id="s9hrZCgQBVPt6wMfS_vP-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontStyle=0" value="DEAB - Continuous Authority to Operate (CAtO) in PROD" vertex="1">
-          <mxGeometry height="80" width="160" x="-1070" y="39140" as="geometry" />
+          <mxGeometry height="80" width="160" x="-1045" y="39140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -214,6 +214,77 @@
         </mxCell>
         <mxCell id="FafAcxoXHnGrvazTbZ7k-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" value="CUP" vertex="1">
           <mxGeometry height="60" width="120" x="460" y="210" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="jtUL8o_jZe1N2erXvgEF" name="Page-5">
+    <mxGraphModel dx="3223" dy="2071" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zCnslaMRrQ0ujS0ijiQr-1" edge="1" parent="1" source="zCnslaMRrQ0ujS0ijiQr-2" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;fontStyle=0;flowAnimation=1;" target="zCnslaMRrQ0ujS0ijiQr-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zCnslaMRrQ0ujS0ijiQr-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0" value="Functional &amp;amp; Non Functional Requirements" vertex="1">
+          <mxGeometry height="80" width="160" x="-1044" y="-622" as="geometry" />
+        </mxCell>
+        <mxCell id="zCnslaMRrQ0ujS0ijiQr-3" edge="1" parent="1" source="zCnslaMRrQ0ujS0ijiQr-4" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fontStyle=0;flowAnimation=1;" target="zCnslaMRrQ0ujS0ijiQr-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zCnslaMRrQ0ujS0ijiQr-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0" value="High Level Design (HLD)" vertex="1">
+          <mxGeometry height="80" width="160" x="-774" y="-622" as="geometry" />
+        </mxCell>
+        <mxCell id="zCnslaMRrQ0ujS0ijiQr-5" edge="1" parent="1" source="zCnslaMRrQ0ujS0ijiQr-6" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;fontStyle=0;flowAnimation=1;" target="zCnslaMRrQ0ujS0ijiQr-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zCnslaMRrQ0ujS0ijiQr-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0" value="Low Level Design (LLD)" vertex="1">
+          <mxGeometry height="80" width="160" x="-294" y="-622" as="geometry" />
+        </mxCell>
+        <mxCell id="zCnslaMRrQ0ujS0ijiQr-7" edge="1" parent="1" source="zCnslaMRrQ0ujS0ijiQr-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;fontStyle=0;flowAnimation=1;" target="zCnslaMRrQ0ujS0ijiQr-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zCnslaMRrQ0ujS0ijiQr-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0" value="Build &amp;amp; Unit Tested in Development Environment" vertex="1">
+          <mxGeometry height="80" width="160" x="-294" y="-502" as="geometry" />
+        </mxCell>
+        <mxCell id="zCnslaMRrQ0ujS0ijiQr-9" edge="1" parent="1" source="zCnslaMRrQ0ujS0ijiQr-10" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fontStyle=0;flowAnimation=1;" target="zCnslaMRrQ0ujS0ijiQr-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zCnslaMRrQ0ujS0ijiQr-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontStyle=0" value="DEAB - Interim Authority to Operate (IAtO) in PROD" vertex="1">
+          <mxGeometry height="80" width="160" x="-1044" y="-382" as="geometry" />
+        </mxCell>
+        <mxCell id="zCnslaMRrQ0ujS0ijiQr-11" edge="1" parent="1" source="zCnslaMRrQ0ujS0ijiQr-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;fontStyle=0;flowAnimation=1;" target="zCnslaMRrQ0ujS0ijiQr-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zCnslaMRrQ0ujS0ijiQr-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0" value="Performance/PEN Testing in Pre-PROD" vertex="1">
+          <mxGeometry height="80" width="160" x="-774" y="-502" as="geometry" />
+        </mxCell>
+        <mxCell id="zCnslaMRrQ0ujS0ijiQr-13" edge="1" parent="1" source="zCnslaMRrQ0ujS0ijiQr-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;fontStyle=0;flowAnimation=1;" target="zCnslaMRrQ0ujS0ijiQr-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zCnslaMRrQ0ujS0ijiQr-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;fontStyle=0" value="DEAB - Authority to Test in Test Environment" vertex="1">
+          <mxGeometry height="80" width="160" x="-529" y="-502" as="geometry" />
+        </mxCell>
+        <mxCell id="zCnslaMRrQ0ujS0ijiQr-15" edge="1" parent="1" source="zCnslaMRrQ0ujS0ijiQr-16" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;fontStyle=0;flowAnimation=1;" target="zCnslaMRrQ0ujS0ijiQr-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zCnslaMRrQ0ujS0ijiQr-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0" value="TDA Approval" vertex="1">
+          <mxGeometry height="80" width="160" x="-529" y="-622" as="geometry" />
+        </mxCell>
+        <mxCell id="zCnslaMRrQ0ujS0ijiQr-17" edge="1" parent="1" source="zCnslaMRrQ0ujS0ijiQr-18" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fontStyle=0;flowAnimation=1;" target="zCnslaMRrQ0ujS0ijiQr-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zCnslaMRrQ0ujS0ijiQr-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=0" value="Deployment in PROD/Live Environment" vertex="1">
+          <mxGeometry height="80" width="160" x="-1044" y="-502" as="geometry" />
+        </mxCell>
+        <mxCell id="zCnslaMRrQ0ujS0ijiQr-19" edge="1" parent="1" source="zCnslaMRrQ0ujS0ijiQr-20" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;fontStyle=0;flowAnimation=1;" target="zCnslaMRrQ0ujS0ijiQr-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zCnslaMRrQ0ujS0ijiQr-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontStyle=0" value="DEAB - Authority to Operate (AtO) in PROD" vertex="1">
+          <mxGeometry height="80" width="160" x="-774" y="-382" as="geometry" />
+        </mxCell>
+        <mxCell id="zCnslaMRrQ0ujS0ijiQr-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;fontStyle=0" value="DEAB - Continuous Authority to Operate (CAtO) in PROD" vertex="1">
+          <mxGeometry height="80" width="160" x="-529" y="-382" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
